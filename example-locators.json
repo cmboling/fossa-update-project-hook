@@ -1,0 +1,7 @@
+[
+  "git+github.com/your-org/project1",
+  "git+github.com/your-org/project2",
+  "git+github.com/your-org/project3",
+  "npm+react$18.2.0",
+  "maven+com.example:my-app$1.0.0"
+]

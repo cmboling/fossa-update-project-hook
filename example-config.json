@@ -1,0 +1,11 @@
+{
+  "baseUrl": "https://app.fossa.com",
+  "apiToken": "your-api-token-here",
+  "csrfToken": "your-csrf-token-here",
+  "hookConfig": {
+    "type": "github",
+    "active": true
+  },
+  "batchSize": 5,
+  "delayMs": 2000
+}
