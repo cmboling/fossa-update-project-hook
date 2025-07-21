@@ -6,7 +6,6 @@ A Node.js script to bulk update GitHub hooks for FOSSA projects that don't have 
 
 - ✅ Identifies projects without active hooks
 - ✅ Bulk updates hooks with configurable batch processing
-- ✅ Rate limiting to avoid API throttling
 - ✅ Dry run mode for safe testing
 - ✅ Comprehensive logging and error handling
 - ✅ Generates detailed results report
